@@ -1,0 +1,7 @@
+[submodule "android"]
+	path = android
+	url = https://github.com/m-dayani/robo-platform-android
+
+[submodule "desktop"]
+	path = desktop
+	url = https://github.com/m-dayani/robo-platform-desktop
