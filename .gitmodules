@@ -5,3 +5,6 @@
 [submodule "desktop"]
 	path = desktop
 	url = https://github.com/m-dayani/robo-platform-desktop
+[submodule "avr"]
+	path = avr
+	url = https://github.com/m-dayani/robo-platform-avr
