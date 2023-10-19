@@ -16,9 +16,9 @@ Follow the links to each module to find more information about it. To record dat
 
 ## Motivation
 
-With all the development boards and software apps out there, you might wonder why you would ever need to endanger your precious phone with this code.
+With all the development boards and software packages out there, you might wonder why you would ever need to endanger your precious phone with this code.
 
-- **Cost**: Although Arduino and RasperyPie boards may sound very cheap to you, believe it or not, many cannot afford dedicated hardware in my country. All necessary sensors and communication means are packed in your phone, ready for use.
+- **Cost**: Although Arduino and Raspberry Pi boards may sound very cheap to you, believe it or not, many cannot afford dedicated hardware in my country. All necessary sensors and communication means are packed in your phone, ready for use.
 - **Flexibility**: You are using the app to power a drone and now want to turn it into a car? Just download the car app to your phone, and you are done! No additional hardware and software upgrade is needed.
 - **R&D**: You might just need a quick feature test for your autonomous application, but you do not want to spend money on a dedicated system you use only once.
 - **Entertainment**: You just need to record data for 3D reconstruction, AR, or VR applications.
